@@ -5,7 +5,8 @@
 #stopwords = nltk.corpus.stopwords.words('english')
 #porter = nltk.PorterStemmer()
 #wnl = nltk.WordNetLemmatizer()
-import nltk,re
+#import nltk,re
+import re
 
 def print_titulo(tit):
 	print '\n\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++'
